@@ -70,8 +70,8 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 *Ready-to-use bots and applications that implement Telegram Gifts functionality*
 
-- [Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer#readme) - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store. `Python`
-- [Telegram Gifts Radar](https://github.com/maxktz/telegram-gifts-radar#readme) - A Telegram userbot that monitors and notifies about new Telegram gifts in real-time. `Python`
+- [Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer#readme) - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store.
+- [Telegram Gifts Radar](https://github.com/maxktz/telegram-gifts-radar#readme) - A Telegram userbot that monitors and notifies about new Telegram gifts in real-time.
 
 ---
 
