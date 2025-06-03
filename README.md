@@ -1,8 +1,8 @@
 # Awesome Telegram Gifts ✨🎁
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/username/awesome-telegram-gifts.svg?style=social&label=Star)](https://github.com/username/awesome-telegram-gifts)
-[![GitHub contributors](https://img.shields.io/github/contributors/username/awesome-telegram-gifts.svg)](https://github.com/username/awesome-telegram-gifts/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/ilyaqznetsow/awesome-telegram-gifts.svg?style=social&label=Star)](https://github.com/ilyaqznetsow/awesome-telegram-gifts)
+[![GitHub contributors](https://img.shields.io/github/contributors/ilyaqznetsow/awesome-telegram-gifts.svg)](https://github.com/ilyaqznetsow/awesome-telegram-gifts/graphs/contributors)
 
 > A curated list of awesome projects, tools, and resources related to Telegram Gifts
 
