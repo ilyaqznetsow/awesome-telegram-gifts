@@ -10,69 +10,70 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 ## Contents
 
-- [🚨 Alert Channels](#-alert-channels)
-- [🛒 Marketplaces](#-marketplaces)
-- [🔍 Search & Pricing Tools](#-search--pricing-tools)
-- [📊 Data & Analytics](#-data--analytics)
-- [🤖 Bots & Applications](#-bots--applications)
+- [Alert Channels](#alert-channels)
+- [Marketplaces](#marketplaces)
+- [Search & Pricing Tools](#search--pricing-tools)
+- [Data & Analytics](#data--analytics)
+- [Bots & Applications](#bots--applications)
+- [Contributing](#contributing)
 
 ---
 
-## 🚨 Alert Channels
+## Alert Channels
 
 *Telegram channels for gift notifications and updates*
 
-- **[Gift Changes](https://t.me/GiftChanges)** - Telegram Gifts news & changelog
-- **[Gift Alerts](https://t.me/Gift_alerts)** - Alerts about adding new gifts in Telegram
-- **[Gifts Detector](https://t.me/gifts_detector)** - Another gifts detector
-- **[Auto Gifts](https://t.me/auto_gifts)** - Notifications about new gifts & @AutoGiftsBot news
+- [Gift Changes](https://t.me/GiftChanges) - Telegram Gifts news & changelog
+- [Gift Alerts](https://t.me/Gift_alerts) - Alerts about adding new gifts in Telegram
+- [Gifts Detector](https://t.me/gifts_detector) - Another gifts detector
+- [Auto Gifts](https://t.me/auto_gifts) - Notifications about new gifts & @AutoGiftsBot news
 
 ---
 
-## 🛒 Marketplaces
+## Marketplaces
 
 *Platforms for trading and buying Telegram gifts*
 
-- **[Tonnel Network](https://t.me/Tonnel_Network_bot)** - A fully automated p2p Telegram Gift Collectibles marketplace, powered by @tonnel
-- **[Portals Market](https://t.me/portals)** - Open the portal. Trade your gifts
-- **[Prime Gifts](https://t.me/primegiftsbot)** - Gifts marketplace with giveaways and case openings
-- **[MRKT](https://t.me/mrkt)** - Gifts marketplace
+- [Tonnel Network](https://t.me/Tonnel_Network_bot) - A fully automated p2p Telegram Gift Collectibles marketplace, powered by @tonnel
+- [Portals Market](https://t.me/portals) - Open the portal. Trade your gifts
+- [Prime Gifts](https://t.me/primegiftsbot) - Gifts marketplace with giveaways and case openings
+- [MRKT](https://t.me/mrkt) - Gifts marketplace
 
 ---
 
-## 🔍 Search & Pricing Tools
+## Search & Pricing Tools
 
 *Tools for searching gifts and calculating prices*
 
-- **[Peek](https://peek.tg/search)** - Gift search app
-- **[Get Gifts](https://t.me/getSendGiftsProBot)** - Profile gifts pricing bot
-- **[NFT Sniffer](https://t.me/NFTSnifferBot)** - Easily and simply find owners of hidden gifts in Telegram
-- **[Tonnel Notifications](https://t.me/tonnel_notifications_bot)** - Bot for tracking gifts using filters on @Tonnel_Network_bot
-- **[Gifts Floor Calculator](https://t.me/giftsfloorbot)** - Telegram Profile gifts list calculator based on floor price
-- **[NFT GIFT Calculator](https://t.me/PriceNFTbot)** - Telegram Profile gifts list calculator based on floor price
+- [Peek](https://peek.tg/search) - Gift search app
+- [Get Gifts](https://t.me/getSendGiftsProBot) - Profile gifts pricing bot
+- [NFT Sniffer](https://t.me/NFTSnifferBot) - Easily and simply find owners of hidden gifts in Telegram
+- [Tonnel Notifications](https://t.me/tonnel_notifications_bot) - Bot for tracking gifts using filters on @Tonnel_Network_bot
+- [Gifts Floor Calculator](https://t.me/giftsfloorbot) - Telegram Profile gifts list calculator based on floor price
+- [NFT GIFT Calculator](https://t.me/PriceNFTbot) - Telegram Profile gifts list calculator based on floor price
 
 ---
 
-## 📊 Data & Analytics
+## Data & Analytics
 
 *Analytics, statistics, and data resources*
 
-- **[Telegram Gifts Dashboard](https://dune.com/rdmcd/telegram-gifts)** - Off-chain and on-chain stats
-- **[proTON Gifts Table](https://docs.google.com/spreadsheets/d/1gwVuBxEJmGUh7C25dXnfaPQ9r7KPZt5hRdUu7Ofavrs/edit?gid=801646152#gid=801646152)** - Gifts rarity excel table
-- **[GiftStat](https://giftstat.com/)** - Telegram Gifts data and statistics
-- **[Gift Charts Bot](https://t.me/gift_charts_bot)** - NFT Gifts Hourly Price Updates
-- **[Tonnel Marketplace Sales](https://t.me/GiftNotification)** - Gift sales of Tonnel Marketplaces
-- **[Tonnel Buy Orders](https://t.me/TonnelOrder)** - Buy Orders in Tonnel Gift Marketplace
-- **[Gift Monitor](https://t.me/GiftMonitor)** - Gift floor price realtime monitoring
+- [Telegram Gifts Dashboard](https://dune.com/rdmcd/telegram-gifts) - Off-chain and on-chain stats
+- [proTON Gifts Table](https://docs.google.com/spreadsheets/d/1gwVuBxEJmGUh7C25dXnfaPQ9r7KPZt5hRdUu7Ofavrs/edit?gid=801646152#gid=801646152) - Gifts rarity excel table
+- [GiftStat](https://giftstat.com/) - Telegram Gifts data and statistics
+- [Gift Charts Bot](https://t.me/gift_charts_bot) - NFT Gifts Hourly Price Updates
+- [Tonnel Marketplace Sales](https://t.me/GiftNotification) - Gift sales of Tonnel Marketplaces
+- [Tonnel Buy Orders](https://t.me/TonnelOrder) - Buy Orders in Tonnel Gift Marketplace
+- [Gift Monitor](https://t.me/GiftMonitor) - Gift floor price realtime monitoring
 
 ---
 
-## 🤖 Bots & Applications
+## Bots & Applications
 
 *Ready-to-use bots and applications that implement Telegram Gifts functionality*
 
-- **[Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer)** - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store. `Python`
-- **[Telegram Gifts Radar](https://github.com/maxktz/telegram-gifts-radar)** - A Telegram userbot that monitors and notifies about new Telegram gifts in real-time. `Python`
+- [Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer) - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store. `Python`
+- [Telegram Gifts Radar](https://github.com/maxktz/telegram-gifts-radar) - A Telegram userbot that monitors and notifies about new Telegram gifts in real-time. `Python`
 
 ---
 
@@ -91,7 +92,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ### Project Entry Format
 
 ```markdown
-- **[Project Name](https://github.com/user/repo)** - Brief description of what the project does. `Language/Framework`
+- [Project Name](https://github.com/user/repo) - Brief description of what the project does. `Language/Framework`
 ```
 
 ### What to Include
@@ -99,25 +100,4 @@ We welcome contributions from the community! Please read our [Contributing Guide
 - **Name** - The official project name
 - **Link** - Link to the main repository or website
 - **Description** - Clear, concise description (1-2 sentences)
-- **Language/Framework** - Primary technology used
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This work is licensed under [CC0 1.0 Universal](LICENSE).
-
----
-
-## Support
-
-If you find this list helpful, please consider:
-- ⭐ Starring this repository
-- 🍴 Forking and contributing
-- 📢 Sharing with others
-
----
-
-*Made with ❤️ by the community* 
+- **Language/Framework** - Primary technology used 
