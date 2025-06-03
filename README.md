@@ -14,7 +14,6 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 - [Search & Pricing Tools](#search--pricing-tools)
 - [Data & Analytics](#data--analytics)
 - [Bots & Applications](#bots--applications)
-- [Contributing](#contributing)
 
 ---
 
@@ -22,10 +21,10 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 *Telegram channels for gift notifications and updates*
 
-- [Gift Changes](https://t.me/GiftChanges) - Telegram Gifts news & changelog
-- [Gift Alerts](https://t.me/Gift_alerts) - Alerts about adding new gifts in Telegram
-- [Gifts Detector](https://t.me/gifts_detector) - Another gifts detector
-- [Auto Gifts](https://t.me/auto_gifts) - Notifications about new gifts & @AutoGiftsBot news
+- [Gift Changes](https://t.me/GiftChanges) - Telegram Gifts news & changelog.
+- [Gift Alerts](https://t.me/Gift_alerts) - Alerts about adding new gifts in Telegram.
+- [Gifts Detector](https://t.me/gifts_detector) - Another gifts detector.
+- [Auto Gifts](https://t.me/auto_gifts) - Notifications about new gifts & @AutoGiftsBot news.
 
 ---
 
@@ -33,10 +32,10 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 *Platforms for trading and buying Telegram gifts*
 
-- [Tonnel Network](https://t.me/Tonnel_Network_bot) - A fully automated p2p Telegram Gift Collectibles marketplace, powered by @tonnel
-- [Portals Market](https://t.me/portals) - Open the portal. Trade your gifts
-- [Prime Gifts](https://t.me/primegiftsbot) - Gifts marketplace with giveaways and case openings
-- [MRKT](https://t.me/mrkt) - Gifts marketplace
+- [Tonnel Network](https://t.me/Tonnel_Network_bot) - A fully automated p2p Telegram Gift Collectibles marketplace, powered by @tonnel.
+- [Portals Market](https://t.me/portals) - Open the portal. Trade your gifts.
+- [Prime Gifts](https://t.me/primegiftsbot) - Gifts marketplace with giveaways and case openings.
+- [MRKT](https://t.me/mrkt) - Gifts marketplace.
 
 ---
 
@@ -44,12 +43,12 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 *Tools for searching gifts and calculating prices*
 
-- [Peek](https://peek.tg/search) - Gift search app
-- [Get Gifts](https://t.me/getSendGiftsProBot) - Profile gifts pricing bot
-- [NFT Sniffer](https://t.me/NFTSnifferBot) - Easily and simply find owners of hidden gifts in Telegram
-- [Tonnel Notifications](https://t.me/tonnel_notifications_bot) - Bot for tracking gifts using filters on @Tonnel_Network_bot
-- [Gifts Floor Calculator](https://t.me/giftsfloorbot) - Telegram Profile gifts list calculator based on floor price
-- [NFT GIFT Calculator](https://t.me/PriceNFTbot) - Telegram Profile gifts list calculator based on floor price
+- [Peek](https://peek.tg/search) - Gift search app.
+- [Get Gifts](https://t.me/getSendGiftsProBot) - Profile gifts pricing bot.
+- [NFT Sniffer](https://t.me/NFTSnifferBot) - Easily and simply find owners of hidden gifts in Telegram.
+- [Tonnel Notifications](https://t.me/tonnel_notifications_bot) - Bot for tracking gifts using filters on @Tonnel_Network_bot.
+- [Gifts Floor Calculator](https://t.me/giftsfloorbot) - Telegram Profile gifts list calculator based on floor price.
+- [NFT GIFT Calculator](https://t.me/PriceNFTbot) - Telegram Profile gifts list calculator based on floor price.
 
 ---
 
@@ -57,13 +56,13 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 *Analytics, statistics, and data resources*
 
-- [Telegram Gifts Dashboard](https://dune.com/rdmcd/telegram-gifts) - Off-chain and on-chain stats
-- [proTON Gifts Table](https://docs.google.com/spreadsheets/d/1gwVuBxEJmGUh7C25dXnfaPQ9r7KPZt5hRdUu7Ofavrs/edit?gid=801646152#gid=801646152) - Gifts rarity excel table
-- [GiftStat](https://giftstat.com/) - Telegram Gifts data and statistics
-- [Gift Charts Bot](https://t.me/gift_charts_bot) - NFT Gifts Hourly Price Updates
-- [Tonnel Marketplace Sales](https://t.me/GiftNotification) - Gift sales of Tonnel Marketplaces
-- [Tonnel Buy Orders](https://t.me/TonnelOrder) - Buy Orders in Tonnel Gift Marketplace
-- [Gift Monitor](https://t.me/GiftMonitor) - Gift floor price realtime monitoring
+- [Telegram Gifts Dashboard](https://dune.com/rdmcd/telegram-gifts) - Off-chain and on-chain stats.
+- [proTON Gifts Table](https://docs.google.com/spreadsheets/d/1gwVuBxEJmGUh7C25dXnfaPQ9r7KPZt5hRdUu7Ofavrs/edit?gid=801646152#gid=801646152) - Gifts rarity excel table.
+- [GiftStat](https://giftstat.com/) - Telegram Gifts data and statistics.
+- [Gift Charts Bot](https://t.me/gift_charts_bot) - NFT Gifts Hourly Price Updates.
+- [Tonnel Marketplace Sales](https://t.me/GiftNotification) - Gift sales of Tonnel Marketplaces.
+- [Tonnel Buy Orders](https://t.me/TonnelOrder) - Buy Orders in Tonnel Gift Marketplace.
+- [Gift Monitor](https://t.me/GiftMonitor) - Gift floor price realtime monitoring.
 
 ---
 
@@ -82,11 +81,11 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ### Quick Guidelines
 
-- **One project per pull request** - This makes it easier to review and process
-- **Check for duplicates** - Search existing entries before adding a new one
-- **Use the correct format** - Follow the established format for consistency
-- **Quality over quantity** - We prioritize high-quality, actively maintained projects
-- **Add projects in alphabetical order** within their respective categories
+- One project per pull request - This makes it easier to review and process
+- Check for duplicates - Search existing entries before adding a new one
+- Use the correct format - Follow the established format for consistency
+- Quality over quantity - We prioritize high-quality, actively maintained projects
+- Add projects in alphabetical order within their respective categories
 
 ### Project Entry Format
 
@@ -96,7 +95,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ### What to Include
 
-- **Name** - The official project name
-- **Link** - Link to the main repository or website
-- **Description** - Clear, concise description (1-2 sentences)
-- **Language/Framework** - Primary technology used 
+- Name - The official project name
+- Link - Link to the main repository or website
+- Description - Clear, concise description (1-2 sentences)
+- Language/Framework - Primary technology used
