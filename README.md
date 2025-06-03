@@ -1,6 +1,5 @@
-# Awesome Telegram Gifts ✨🎁
+# Awesome Telegram Gifts ✨🎁 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/ilyaqznetsow/awesome-telegram-gifts.svg?style=social&label=Star)](https://github.com/ilyaqznetsow/awesome-telegram-gifts)
 [![GitHub contributors](https://img.shields.io/github/contributors/ilyaqznetsow/awesome-telegram-gifts.svg)](https://github.com/ilyaqznetsow/awesome-telegram-gifts/graphs/contributors)
 
@@ -72,8 +71,8 @@ Telegram Gifts is a feature that allows users to send and receive virtual gifts 
 
 *Ready-to-use bots and applications that implement Telegram Gifts functionality*
 
-- [Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer) - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store. `Python`
-- [Telegram Gifts Radar](https://github.com/maxktz/telegram-gifts-radar) - A Telegram userbot that monitors and notifies about new Telegram gifts in real-time. `Python`
+- [Gifts Buyer](https://github.com/bohd4nx/Gifts-Buyer#readme) - An automated Telegram userbot that purchases new gifts as they become available in the Telegram store. `Python`
+- [Telegram Gifts Radar](https://github.com/maxktz/telegram-gifts-radar#readme) - A Telegram userbot that monitors and notifies about new Telegram gifts in real-time. `Python`
 
 ---
 
@@ -92,7 +91,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ### Project Entry Format
 
 ```markdown
-- [Project Name](https://github.com/user/repo) - Brief description of what the project does. `Language/Framework`
+- [Project Name](https://github.com/user/repo#readme) - Brief description of what the project does. `Language/Framework`
 ```
 
 ### What to Include
